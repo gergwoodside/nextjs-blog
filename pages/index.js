@@ -22,7 +22,6 @@ export default function Home ({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hi, I'm <strong>Greg</strong>. I'm a Software Tester on the journey of learning web development. You can contact me on <a href='https://www.linkedin.com/in/greg-woodside-839b6b42/'>Linkedin</a>.</p>
-        <p><i>(p.s., the first two blog posts are from the NextJS team. The most recent is from me.)</i></p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
