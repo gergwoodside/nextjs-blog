@@ -10,7 +10,8 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, this is my introduction.</p>
+        <p>Hi, I'm Greg. I am currently a Software Test Engineer at Backstop Solutions Group</p>
+        <p>I am learning React and hope to become a front-end developer.</p>
       </section>
     </Layout>
   );
